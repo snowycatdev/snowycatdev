@@ -8,12 +8,12 @@
   <br><br>
   Developer and Administrator at <a href="https://discord.gg/leonemc">LeoneMC</a>
   <br><br>
-  Contact: Discord <a href="https://discord.com/users/827589337142919199">@snowykittykat</a>
+  Contact: Discord <a href="https://discord.com/users/827589337142919199">@kittyisdev</a>
   <br>
-  Hangout Discord: <a href="https://discord.gg/UwPqV9tSBk">https://discord.gg/UwPqV9tSBk</a>
+  Hangout Discord: <a href="https://discord.gg/7mrqCUgWpv">https://discord.gg/7mrqCUgWpv</a>
 </samp>
 
-[<img alt="@snowykittykat on Discord" src="https://discord.c99.nl/widget/theme-3/827589337142919199.png">](https://discord.c99.nl/widget/theme-2/827589337142919199.png)
+[<img alt="@kittyisdev on Discord" src="https://discord.c99.nl/widget/theme-3/827589337142919199.png">](https://discord.c99.nl/widget/theme-2/827589337142919199.png)
 
 <!--## Hi there 👋
 
