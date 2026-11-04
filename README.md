@@ -6,8 +6,6 @@
   <br><br>
   Currently a fluent Skript developer and learning Java, and maybe Kotlin :3
   <br><br>
-  Developer and Administrator at <a href="https://discord.gg/leonemc">LeoneMC</a>
-  <br><br>
   Contact: Discord <a href="https://discord.com/users/827589337142919199">@kittyisdev</a>
   <br>
   Hangout Discord: <a href="https://discord.gg/7mrqCUgWpv">https://discord.gg/7mrqCUgWpv</a>
