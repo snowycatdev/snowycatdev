@@ -7,8 +7,6 @@
   Currently a fluent Skript developer and learning Java, and maybe Kotlin :3
   <br><br>
   Contact: Discord <a href="https://discord.com/users/827589337142919199">@kittyisdev</a>
-  <br>
-  Hangout Discord: <a href="https://discord.gg/7mrqCUgWpv">https://discord.gg/7mrqCUgWpv</a>
 </samp>
 
 [<img alt="@kittyisdev on Discord" src="https://discord.c99.nl/widget/theme-3/827589337142919199.png">](https://discord.c99.nl/widget/theme-2/827589337142919199.png)
