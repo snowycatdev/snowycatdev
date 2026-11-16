@@ -9,4 +9,4 @@
   Contact: Discord <a href="https://discord.com/users/827589337142919199">@kittyisdev</a>
 </samp>
 
-[<img alt="@kittyisdev on Discord" src="https://discord.c99.nl/widget/theme-3/827589337142919199.png">](https://discord.c99.nl/widget/theme-2/827589337142919199.png)
+[![Discord status](https://statusbanner.com/banner/minimal-dark/827589337142919199.svg?hideTag=1&hideBadges=1)](https://statusbanner.com/u/827589337142919199)
